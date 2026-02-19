@@ -3,7 +3,7 @@ name: motivation-diagnosis
 description: Uncover the layered motivations driving a person's behavior using Shakespeare's three-level psychological framework.
 license: MIT
 metadata:
-  version: 1.0.4536
+  version: 1.0.4537
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
